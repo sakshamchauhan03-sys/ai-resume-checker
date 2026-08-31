@@ -6,9 +6,9 @@ A clear, one-to-two sentence description of what the project does, the problem i
 
 ## 🚀 Features
 
-* **[Key Feature 1]:** E.g., Implemented a multi-layer binary classification model.
-* **[Key Feature 2]:** E.g., Processed and optimized data pipelines for high-efficiency routing.
-* **[Key Feature 3]:** E.g., Built with an optimized sliding window algorithm to reduce time complexity.
+*  Implemented a multi-layer binary classification model.
+*  Processed and optimized data pipelines for high-efficiency routing.
+*  Built with an optimized sliding window algorithm to reduce time complexity.
 
 ## 💻 Tech Stack
 
